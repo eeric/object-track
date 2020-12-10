@@ -1,2 +1,2 @@
 # object-track
-track paper and open preject
+track paper and open project
