@@ -1,0 +1,12 @@
+## IoU
+High-Speed Tracking-by-DetectionWithout Using Image Information
+### note
+https://blog.csdn.net/zhangjunhit/article/details/78911287
+## V-IoU
+Extending IOU Based Multi-Object Tracking by Visual Information
+### note
+https://blog.csdn.net/yjmlaile/article/details/105003558
+https://blog.csdn.net/qq_42191914/article/details/103365867
+https://blog.csdn.net/yjmlaile/article/details/105003558
+## paper and code
+https://github.com/bochinski/iou-tracker
