@@ -3,5 +3,4 @@
 ## a certain number of consecutive frame
 ## connecting the front and back frames
 # mark
-## remove disappeared bbox
-## remove disappeared trail
+## remove disappeared a pair of bbox and trail
