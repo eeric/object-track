@@ -1,8 +1,10 @@
 # paper and code
 https://www.robots.ox.ac.uk/~joao/circulant/index.html
-# opencv
+# opencv eg.
 tkfor = cv2.TrackerKCF_create()
 tkfor.init(image, bbox)
+<...>diffirent frame
+ret, udbox = tkfor.update(image)
 # note
 https://blog.csdn.net/shenxiaolu1984/article/details/50905283
 https://zhuanlan.zhihu.com/p/48249974
