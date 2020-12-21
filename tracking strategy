@@ -2,4 +2,4 @@
 ### 1st detecting object
 ### tracking init corresponding to bbox
 ### update bbox with tracker corresponding to object
-###
+### detecting object with fixed frequency and update bbox corresponding to id
