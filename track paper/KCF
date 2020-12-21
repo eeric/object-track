@@ -2,9 +2,9 @@
 https://www.robots.ox.ac.uk/~joao/circulant/index.html
 # opencv eg.
 tkfor = cv2.TrackerKCF_create()
-tkfor.init(image, bbox)
-<...>diffirent frame
-ret, udbox = tkfor.update(image)
+tkfor.init(image, bbox)##bbox=(x,y,w,h)
+######diffirent frame#####
+ret, udbox = tkfor.update(image)##bbox-->udbox
 # note
 https://blog.csdn.net/shenxiaolu1984/article/details/50905283
 https://zhuanlan.zhihu.com/p/48249974
