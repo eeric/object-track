@@ -1,4 +1,5 @@
 # strategy
 ### 1st detecting object
 ### tracking init corresponding to bbox
-
+### update bbox with tracker corresponding to object
+###
