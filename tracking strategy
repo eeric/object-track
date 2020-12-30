@@ -5,4 +5,4 @@
 ### (4) detecting object with fixed frequency.
 replace approximate bbox if iou > 0, otherwise add new bbox.
 for new bbox, turn to step 2
-to original bbox, turn to step 3
+for original bbox, turn to step 3
