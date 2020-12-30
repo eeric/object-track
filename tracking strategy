@@ -1,5 +1,7 @@
 # strategy
-### 1st detecting object
+### (1) 1st detecting object
 ### init tracking corresponding to bbox
 ### update bbox with tracker corresponding to object
-### detecting object with fixed frequency to replace approximate bbox if iou > 0 or not add new bbox.
+### detecting object with fixed frequency.
+
+replace approximate bbox if iou > 0, otherwise add new bbox.
