@@ -1,6 +1,6 @@
 # trail method
 ## id corresponding to bbox
-## setting a certain number of consecutive frame for each bbox
+## setting a certain number of consecutive frame, and saving each frame bbox
 ## connecting the front and back frames by center point of every bbox
 ## when reaching to specified number of frames, removing 1st bbox saved, new bbox replaced the last bbox saved
 # mark
