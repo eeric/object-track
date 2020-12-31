@@ -2,6 +2,6 @@
 ## id corresponding to bbox
 ## setting a certain number of consecutive frame for each bbox
 ## connecting the front and back frames by center point of every bbox
-##
+## when reach to specified number of frames
 # mark
 ## remove disappeared a pair of bbox and trail
