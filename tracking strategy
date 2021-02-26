@@ -2,7 +2,7 @@
 ### (1) 1st detecting object
 ### (2) init tracking corresponding to bbox
 ### (3) update bbox with tracker corresponding to object
-### (4) detecting object with fixed frequency.
-replace approximate bbox if iou > 0, otherwise add new bbox.
+### (4) detecting object with fixed frequency
+replace approximate bbox if iou > 0, otherwise add new bbox
 for new bbox, turn to step 2
 for original bbox, turn to step 3
